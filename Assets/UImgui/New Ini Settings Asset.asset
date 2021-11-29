@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e48206e359bc1247a32a885f4b70748, type: 3}
+  m_Name: New Ini Settings Asset
+  m_EditorClassIdentifier: 
+  _data: '[Window][Debug##Default]
+
+    Pos=60,60
+
+    Size=400,400
+
+    Collapsed=0
+
+
+    [Window][START]
+
+    Pos=60,60
+
+    Size=189,68
+
+    Collapsed=0
+
+
+    [Window][Cloth
+    Simulation Start Settings]
+
+    Pos=1,3
+
+    Size=491,158
+
+    Collapsed=0
+
+
+    [Window][Rope
+    Simulation Start Settings]
+
+    Pos=4,169
+
+    Size=472,128
+
+    Collapsed=0
+
+
+    [Window][FPS]
+
+    Pos=1835,6
+
+    Size=74,36
+
+    Collapsed=0
+
+
+    [Window][Rope]
+
+    Pos=651,5
+
+    Size=398,128
+
+    Collapsed=0
+
+
+    [Window][Cloth]
+
+    Pos=1053,5
+
+    Size=504,212
+
+    Collapsed=0
+
+
+'
