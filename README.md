@@ -15,11 +15,11 @@
 
 O Objetivo desse projeto é fazer uma simulação de um pedaço de Tecido 3D representado por uma grade de partículas com barras de de restrição.
 
-![Objetivo1](RelatorioImgs\7V5zvCejng.png)
+<img src="RelatorioImgs\7V5zvCejng.png">
 
 Pode-se considerar um objetivo secundário fazer uma simulação de uma corda em 2D seguindo o mesmo princípio.
 
-![Objetivo2](RelatorioImgs\jLQQsJenKg.png)
+<img src="RelatorioImgs\jLQQsJenKg.png">
 
 # Teoria
 
@@ -42,7 +42,7 @@ Serão criadas barras que conectam 2 partículas, iterando por todas as barras �
 
 Nenhuma partícula bloqueada pode ser movida. Como ilustrado na figura.
 
-![Objetivo3](RelatorioImgs\0K1Uh8C9H3.png)
+<img src="RelatorioImgs\0K1Uh8C9H3.png">
 
 # Código
 
@@ -324,16 +324,16 @@ A simulação é chamada todo o frame para atualizar a posição em tempo real.
 
 > Gifs estão disponíveis para visualização na página do github: https://github.com/nicopaes/Tecido_INF1608
 
-![Resultados0](RelatorioImgs\Unity_AT1kJJjuNI.png) 
+<img src="RelatorioImgs\Unity_AT1kJJjuNI.png"> 
 
-![Resultados1](RelatorioImgs\HkmxfH3v3v.gif)
+<img src="RelatorioImgs\HkmxfH3v3v.gif">
 
 É possível verificar nesse gif o resultado da simulação.
 É possível clickar nos pontos para bloquea-los e mudar os parâmetros da simulação.
 
 Toda a simulação é feita em tempo real em 3D.
 
-![Resultados2](RelatorioImgs\cwN5KdlunT.gif)
+<img src="RelatorioImgs\cwN5KdlunT.gif">
 
 Respondendo algumas das questões colocadas no enunciado do trabalho.
 
